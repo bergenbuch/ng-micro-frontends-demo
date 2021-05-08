@@ -1,6 +1,9 @@
 {
   "name": "calendar",
   "version": "0.0.0",
+  "resolutions": {
+    "webpack": "5.18.0"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
